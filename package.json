@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-core",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Braised-Cakes/eslint-plugin-core.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Braised-Cakes/eslint-plugin-core/issues"
+  },
+  "homepage": "https://github.com/Braised-Cakes/eslint-plugin-core#readme"
+}
